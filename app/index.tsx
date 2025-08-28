@@ -8,6 +8,10 @@ export default function Home() {
       <Link href="/add">
         <Button title="Add Recipe from URL" />
       </Link>
+      <View style={{ height: 12 }} />
+      <Link href="/recipes">
+        <Button title="View Recipes" />
+      </Link>
     </View>
   );
 }
