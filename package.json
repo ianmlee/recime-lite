@@ -14,7 +14,8 @@
     "expo-router": "3.5.22",
     "react": "18.2.0",
     "react-native": "0.74.1",
-    "uuid": "^9.0.1"
+    "uuid": "^9.0.1",
+    "@types/react": "~18.2.79"
   },
   "devDependencies": {
     "typescript": "^5.0.0"
