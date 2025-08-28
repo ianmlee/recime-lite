@@ -4,4 +4,9 @@ export type Recipe = {
   ingredients: string[];
   instructions: string[];
   url: string;
+  imageUrl?: string;
+  totalTime?: string;
+  servings?: string;
+  tags?: string[];
+  sourceName?: string;
 };

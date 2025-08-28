@@ -1,0 +1,20 @@
+Starting project at /workspace
+Metro is running in CI mode, reloads are disabled. Remove CI=true to enable watch mode.
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+
+TypeScript: The tsconfig.json has been updated (Use EXPO_NO_TYPESCRIPT_SETUP to skip)
+
+› Required modifications made to the tsconfig.json:
+
+  extends is now expo/tsconfig.base
+
+
+The following packages should be updated for best compatibility with the installed expo version:
+  @react-native-async-storage/async-storage@1.21.0 - expected version: 1.23.1
+  expo-router@3.5.22 - expected version: ~3.5.24
+  react-native@0.74.1 - expected version: 0.74.5
+  typescript@5.9.2 - expected version: ~5.3.3
+Your project may not work correctly until you install the expected versions of the packages.
+Waiting on http://localhost:8081
+Logs for your project will appear below.
